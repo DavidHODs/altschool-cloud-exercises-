@@ -1,0 +1,47 @@
+commit d516fbe82bfd6c8ae838d460a3d6fbad534237cd
+Author: DavidHODs <davidoluwatobi41@gmail.com>
+Date:   Wed Aug 24 12:46:32 2022 +0100
+
+    made modifications and added requested contents
+
+commit f1e2d3d1c8820ab50dd96eae35e67f3f1d03ecb1
+Author: DavidHODs <davidoluwatobi41@gmail.com>
+Date:   Mon Aug 22 18:12:12 2022 +0100
+
+    sources.list and php version exercise
+
+commit 1c591efb7db33aca6fc4fe4ae0e4208fbe0d371b
+Author: DavidHODs <davidoluwatobi41@gmail.com>
+Date:   Mon Aug 22 14:35:13 2022 +0100
+
+    users and groups exercise
+
+commit 9b3c053ace8f1fb90e8d2375e4cea056d28a7ab5
+Author: DavidHODs <davidoluwatobi41@gmail.com>
+Date:   Sun Aug 21 16:52:44 2022 +0100
+
+    got to know about a timezone task from colleagues even though my lms keeps showing two exercises: ifconfig & command line
+
+commit e2e9b934dbf7edb697da8755ded5ae58282bea8c
+Author: DavidHODs <davidoluwatobi41@gmail.com>
+Date:   Thu Aug 11 15:53:49 2022 +0100
+
+    added a readme file
+
+commit 6ecc2aea5e4ef8e00ced4a1ba5e4bb5b67284510
+Author: DavidHODs <davidoluwatobi41@gmail.com>
+Date:   Thu Aug 11 15:41:14 2022 +0100
+
+    completed exercise one
+
+commit 3c76191c1a31fd24f541f481c7ee170720f63594
+Author: DavidHODs <davidoluwatobi41@gmail.com>
+Date:   Thu Aug 11 15:33:24 2022 +0100
+
+    completed exercise two
+
+commit 51ae6eea2e35af5d8b86ee240db782392ede91bf
+Author: DavidHODs <davidoluwatobi41@gmail.com>
+Date:   Thu Aug 11 15:07:59 2022 +0100
+
+    folder structure
