@@ -1,3 +1,9 @@
+commit 97be476ac8d33b6e21de8072076c86387f0e6608
+Author: DavidHODs <davidoluwatobi41@gmail.com>
+Date:   Tue Aug 30 13:33:55 2022 +0100
+
+    added git config, remote and log output
+
 commit d516fbe82bfd6c8ae838d460a3d6fbad534237cd
 Author: DavidHODs <davidoluwatobi41@gmail.com>
 Date:   Wed Aug 24 12:46:32 2022 +0100
