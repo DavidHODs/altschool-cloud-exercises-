@@ -1,15 +1,33 @@
 #!/usr/bin/bash
 
-cd ${HOME}/Desktop/AltSchool/script
+fileLog=memory.log
 
-file=memory.log
+function createLog {
+    cd ${HOME}/Desktop/AltSchool/script
+    touch ${fileLog}
+}
 
-touch ${file}
+function memoryCheck {
+    echo "Memory Usage Log for $(date)" >> ${fileLog}
+    echo "+-------------------------------+" >> ${fileLog}
+    echo >> ${fileLog}
 
-echo "Memory Usage Log for $(date)" >> ${file}
-echo "+-------------------------------+" >> ${file}
-echo >> ${file}
+    free -m >> ${fileLog}
+    echo "+-------------------------------+" >> ${fileLog}
+    echo >> ${fileLog}
+}
 
-free -m >> ${file}
-echo "+-------------------------------+" >> ${file}
-echo >> ${file}
+function logWipe {
+    cd ${HOME}/Desktop/AltSchool/script
+
+    rm -rf ${fileLog}
+}
+
+function sendMail {
+    sendmail davidoluwatobi41@gmail.com  < ${fileLog}
+}
+
+createLog
+memoryCheck
+sendMail
+logWipe
