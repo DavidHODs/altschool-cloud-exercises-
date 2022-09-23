@@ -46,7 +46,7 @@ function funcCall {
     memoryCheck
 
     # checks if it's midnight (12 am) before running the functions
-    if [ ${timeCheck} = 0 ];
+    if [ ${timeCheck} = 00 ];
         then sendMail && logWipe
     else 
         :
