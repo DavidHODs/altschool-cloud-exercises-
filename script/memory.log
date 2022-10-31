@@ -190,3 +190,35 @@ Mem:            7824        4994         505         367        2324        2193
 Swap:              0           0           0
 +-------------------------------+
 
+Memory Usage Log for Mon Oct 31 09:00:01 AM WAT 2022
++-------------------------------+
+
+               total        used        free      shared  buff/cache   available
+Mem:            7824        2461        2066         241        3296        4841
+Swap:              0           0           0
++-------------------------------+
+
+Memory Usage Log for Mon Oct 31 10:00:01 AM WAT 2022
++-------------------------------+
+
+               total        used        free      shared  buff/cache   available
+Mem:            7824        2514        2005         241        3303        4788
+Swap:              0           0           0
++-------------------------------+
+
+Memory Usage Log for Mon Oct 31 11:00:02 AM WAT 2022
++-------------------------------+
+
+               total        used        free      shared  buff/cache   available
+Mem:            7824        4343         163         383        3316        2807
+Swap:              0           0           0
++-------------------------------+
+
+Memory Usage Log for Mon Oct 31 12:00:01 PM WAT 2022
++-------------------------------+
+
+               total        used        free      shared  buff/cache   available
+Mem:            7824        5314         274         437        2234        1789
+Swap:              0           0           0
++-------------------------------+
+
